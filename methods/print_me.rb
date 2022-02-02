@@ -1,0 +1,12 @@
+# print_me.rb
+
+# Write a method named print_me that prints I'm printing within the method! 
+# when invoked as follows:
+
+# print_me
+
+def print_me
+  print "I'm printing within the method!"
+end
+
+print_me
